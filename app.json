@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "MSG Erste-Hilfe-Schule",
+    "slug": "msg-erste-hilfe",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "platforms": ["web"],
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./public/favicon.png"
+    }
+  }
+}
